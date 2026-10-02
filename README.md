@@ -15,6 +15,12 @@ A four-step agent workflow with a real human checkpoint — the run persists and
 holding a continuation in memory — plus an observability dashboard covering run status, failures by
 step, latency and audit history. React, TypeScript, Node, Claude API, optional S3 archival.
 
+**[lattice-design-system](https://github.com/YasYendluri21/lattice-design-system)**
+An accessible React component library driven by design tokens, with marketing pages composed from a
+headless CMS over GraphQL. Tokens compile into the Tailwind theme, so no component can introduce a
+value design did not define. Eleven components documented in Storybook, verified at WCAG 2.1 AA by
+axe in the Playwright suite. Next.js, TypeScript, Tailwind.
+
 **[realtime-chat](https://github.com/YasYendluri21/realtime-chat)**
 Rooms, live presence and message history. Next.js, TypeScript, Socket.IO.
 
